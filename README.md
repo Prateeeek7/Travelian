@@ -224,22 +224,22 @@ Explore our comprehensive vision for integrating Travelian India into the Samsun
 **[📖 Read Future Endeavours Document](FUTURE_ENDEAVOURS.md)**
 
 ### Key Highlights:
-- **Samsung Pay Integration** 💳 - Direct travel bookings and expense tracking
-- **Samsung Calendar Sync** 📅 - Automatic itinerary import with smart reminders
-- **Samsung Pass Integration** 🔐 - Secure storage of travel documents
-- **Galaxy Watch Integration** ⌚ - Real-time travel updates on wearables
-- **Bixby Voice Commands** 🤖 - Voice-activated travel planning
+- **Payment Integration** 💳 - Direct travel bookings and expense tracking
+- **Calendar Sync** 📅 - Automatic itinerary import with smart reminders
+- **Wallet/Pass Integration** 🔐 - Secure storage of travel documents
+- **Smart Watch Integration** ⌚ - Real-time travel updates on wearables
+- **AI Voice Commands** 🤖 - Voice-activated travel planning
 - **SmartThings Integration** 📺 - Smart home travel experience
 
 *Vision: Empowering every Indian traveler with intelligent, connected, and personalized travel experiences through the Samsung ecosystem.*
 
 ## 📹 Submissions
 
-### Samsung PRISM GenAI Hackathon 2025
+### India Innovates Hackathon 2026
 
 **Team**: BitWizards  
 **Project**: Travelian India v2.0 - AI-Powered Travel Planning Platform  
-**Tag**: `SamsungPRISMGenAIHackathon2025`
+**Tag**: `India Innovates'26`
 
 #### 📋 Submission Files
 - **Team Information**: [TeamName.md](TeamName.md)
@@ -266,6 +266,7 @@ Explore our comprehensive vision for integrating Travelian India into the Samsun
 **Team Leader**: Pratik Kumar  
 **Email**: pratik2002singh@gmail.com  
 **LinkedIn**: [Pratik Kumar](https://www.linkedin.com/in/pratik-kumar-198172186)
+
 
 
 
